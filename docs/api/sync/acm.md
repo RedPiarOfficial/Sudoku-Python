@@ -1,3 +1,0 @@
-# ACM
-
-::: aminofixfix.ACM
