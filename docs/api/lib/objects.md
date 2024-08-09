@@ -1,3 +1,0 @@
-# Objects
-
-::: aminofixfix.lib.objects
