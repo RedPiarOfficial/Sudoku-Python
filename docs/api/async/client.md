@@ -1,3 +1,0 @@
-# Client
-
-::: aminofixfix.asyncfixfix.Client
